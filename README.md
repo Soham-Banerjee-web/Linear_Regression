@@ -24,7 +24,8 @@ NumPy 🔢
 
 📥 Dataset
 Rooms-1 2 3 4 5 6	
-Price 100 150 200 250 280 330
+
+Price- 100 150 200 250 280 330
 
 You can replace this with your own dataset or load a .csv using pandas.
 
