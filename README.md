@@ -23,13 +23,8 @@ Matplotlib 📈
 NumPy 🔢
 
 📥 Dataset
-Rooms	Price
-1	100
-2	150
-3	200
-4	250
-5	280
-6	330
+Rooms-1 2 3 4 5 6	
+Price 100 150 200 250 280 330
 
 You can replace this with your own dataset or load a .csv using pandas.
 
