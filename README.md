@@ -81,14 +81,10 @@ How to visualize results with matplotlib
 📌 Next Steps
 Use multiple features (e.g., area, location, age)
 
-![Last Commit](https://img.shields.io/github/last-commit/Soham-Banerjee-web/Bolt-app)
-![Repo Size](https://img.shields.io/github/repo-size/Soham-Banerjee-web/Bolt-app)
+![Last Commit](https://img.shields.io/github/last-commit/Soham-Banerjee-web/Linear_Regression)
+![Issues](https://img.shields.io/github/issues/Soham-Banerjee-web/Linear_Regression)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-
-Try Polynomial Regression
-
-Deploy using Streamlit or Flask
 
 🤝 Contributing
 Pull requests are welcome. Feel free to open issues or suggest features!
